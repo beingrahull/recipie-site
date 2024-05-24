@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/recipie-site/static/css/main.8e1e94df.css",
+    "main.js": "/recipie-site/static/js/main.a6d025fc.js",
+    "static/js/453.679e8433.chunk.js": "/recipie-site/static/js/453.679e8433.chunk.js",
+    "index.html": "/recipie-site/index.html",
+    "main.8e1e94df.css.map": "/recipie-site/static/css/main.8e1e94df.css.map",
+    "main.a6d025fc.js.map": "/recipie-site/static/js/main.a6d025fc.js.map",
+    "453.679e8433.chunk.js.map": "/recipie-site/static/js/453.679e8433.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e1e94df.css",
+    "static/js/main.a6d025fc.js"
+  ]
+}
